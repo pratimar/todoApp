@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.appContainer {
+    width: 400px;
+    margin: auto;
+    border: 1px solid black;
+    height: 100%;
+    padding: 2em;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+.listContainer li {
+    list-style: none;
+    margin: 5px;
+}
+
+.listContainer ul {
+  width: 200px;
+  margin: auto;
+}
+
+.listContainer {
+  margin: 20px;
+}
+
+li input {
+  margin-left: 5px;
+  background-color: #a79595;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.listContainer h3 {
+  font-family: cursive;
+  text-decoration: underline;
+}
+
+.search input {
+  margin-left: 5px;
+}
+
+li input:hover {
+  background-color: #796e6e;
+  font-weight: bold;
+}
